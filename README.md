@@ -1,4 +1,4 @@
-# LogChainify - The Seamless Log Correlation Toolbox in event driven architecture
+# LogChainify - The Seamless Log Correlation and Visualization Toolbox in event driven architecture
 Are you struggling to effectively manage and correlate logs in your distributed applications? Introducing LogChainify,
 an ambitious open-source project aimed at providing a seamless and efficient solution for log correlation
 in event-driven architectures.
