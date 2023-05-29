@@ -1,7 +1,7 @@
 # LogChainify - The Seamless Log Correlation Toolbox in event driven architecture
-LogChainify is an open-source package designed to provide a seamless and efficient solution for managing logs with 
-causation IDs and correlation IDs. With LogChainify, you can easily trace and correlate logs across different components
-and systems, gaining valuable insights into the flow and relationships of your distributed applications.
+Are you struggling to effectively manage and correlate logs in your distributed applications? Introducing LogChainify,
+an ambitious open-source project aimed at providing a seamless and efficient solution for log correlation
+in event-driven architectures.
 
 # Events in event driven architecture
 In Event-Driven Architecture, Event ID, Correlation ID, and Causation ID play a crucial role in tracking and
